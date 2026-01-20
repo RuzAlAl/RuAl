@@ -1,0 +1,71 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>D:\Atmel Studio\I2C\i2c_ver_01\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m8def.inc</FILE>
+  <FILE>D:\Atmel Studio\I2C\i2c_ver_01\define.inc</FILE>
+  <FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Atmel Studio\I2C\i2c_ver_01\Debug\i2c_ver_01.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>i2c_ver_01.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>i2c_ver_01.map</FILE>
+  <FILE>i2c_ver_01.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <display_mode><FILE>D:\Atmel Studio\I2C\i2c_ver_01\define.inc</FILE><LINE>63</LINE></display_mode>
+  <edit_mode><FILE>D:\Atmel Studio\I2C\i2c_ver_01\define.inc</FILE><LINE>71</LINE></edit_mode>
+  <flag_wr_time><FILE>D:\Atmel Studio\I2C\i2c_ver_01\define.inc</FILE><LINE>75</LINE></flag_wr_time>
+  <display_buf><FILE>D:\Atmel Studio\I2C\i2c_ver_01\define.inc</FILE><LINE>86</LINE></display_buf>
+  <i2c_buffer><FILE>D:\Atmel Studio\I2C\i2c_ver_01\define.inc</FILE><LINE>88</LINE></i2c_buffer>
+  <bin_time_buffer><FILE>D:\Atmel Studio\I2C\i2c_ver_01\define.inc</FILE><LINE>97</LINE></bin_time_buffer>
+  <Reset><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>25</LINE></Reset>
+  <INT0_DS3231><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>96</LINE></INT0_DS3231>
+  <SEG_TABLE><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>20</LINE></SEG_TABLE>
+  <INIT_PORTS><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>158</LINE></INIT_PORTS>
+  <INIT_VARIABLES><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>111</LINE></INIT_VARIABLES>
+  <INIT_INTERRUPTS><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>184</LINE></INIT_INTERRUPTS>
+  <INIT_DS3231><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>5</LINE></INIT_DS3231>
+  <MAIN_LOOP><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>58</LINE></MAIN_LOOP>
+  <DISPLAY><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>67</LINE></DISPLAY>
+  <READ_DATETIME><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>24</LINE></READ_DATETIME>
+  <BUTTON><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>74</LINE></BUTTON>
+  <UPDATE_DISPLAY><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>193</LINE></UPDATE_DISPLAY>
+  <NEED_RECORD_TIME><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>81</LINE></NEED_RECORD_TIME>
+  <ACTIV_BUTTON><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>202</LINE></ACTIV_BUTTON>
+  <SLEEP_ALL><FILE>D:\Atmel Studio\I2C\i2c_ver_01\main.asm</FILE><LINE>89</LINE></SLEEP_ALL>
+  <WRITE_SPECIFIC_TIME><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>91</LINE></WRITE_SPECIFIC_TIME>
+  <BCD_TO_BIN><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>248</LINE></BCD_TO_BIN>
+  <I2C_INIT><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>204</LINE></I2C_INIT>
+  <I2C_START><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>214</LINE></I2C_START>
+  <I2C_WRITE><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>224</LINE></I2C_WRITE>
+  <I2C_STOP><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>242</LINE></I2C_STOP>
+  <I2C_READ_ACK><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>231</LINE></I2C_READ_ACK>
+  <I2C_READ_NACK><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>236</LINE></I2C_READ_NACK>
+  <WRITE_DATETIME><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>61</LINE></WRITE_DATETIME>
+  <BIN_TO_BCD><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>271</LINE></BIN_TO_BCD>
+  <M_Wr><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>109</LINE></M_Wr>
+  <WR_T><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>175</LINE></WR_T>
+  <H_Wr><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>120</LINE></H_Wr>
+  <WD_Wr><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>131</LINE></WD_Wr>
+  <D_Wr><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>142</LINE></D_Wr>
+  <MO_Wr><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>153</LINE></MO_Wr>
+  <Y_Wr><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>164</LINE></Y_Wr>
+  <St_Wr><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>178</LINE></St_Wr>
+  <WRITE_HOURS><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>182</LINE></WRITE_HOURS>
+  <I2C_WAIT><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>218</LINE></I2C_WAIT>
+  <BIN_loop><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>275</LINE></BIN_loop>
+  <BIN_done><FILE>D:\Atmel Studio\I2C\i2c_ver_01\i2c.asm</FILE><LINE>281</LINE></BIN_done>
+ </LABELS>
+</ASSEMBLER_INFO>
