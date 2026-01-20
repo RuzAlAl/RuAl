@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>D:\Atmel Studio\Clock_SPI_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Atmel Studio\Clock_SPI_2\Debug\Clock_SPI_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Clock_SPI_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Clock_SPI_2.map</FILE>
+  <FILE>Clock_SPI_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <display_mode><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>69</LINE></display_mode>
+  <edit_mode><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>77</LINE></edit_mode>
+  <display_buf><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>84</LINE></display_buf>
+  <i2c_buffer><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>86</LINE></i2c_buffer>
+  <bin_time_buffer><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>95</LINE></bin_time_buffer>
+  <Reset><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>120</LINE></Reset>
+  <INT0_DS3231><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>160</LINE></INT0_DS3231>
+  <SEG_TABLE><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>113</LINE></SEG_TABLE>
+  <INIT_PORTS><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>215</LINE></INIT_PORTS>
+  <INIT_VARIABLES><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>178</LINE></INIT_VARIABLES>
+  <INIT_INTERRUPTS><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>240</LINE></INIT_INTERRUPTS>
+  <INIT_DS3231><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>251</LINE></INIT_DS3231>
+  <MAIN_LOOP><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>146</LINE></MAIN_LOOP>
+  <sleep_all><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>154</LINE></sleep_all>
+  <READ_DATETIME><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>269</LINE></READ_DATETIME>
+  <BCD_TO_BIN><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>423</LINE></BCD_TO_BIN>
+  <I2C_INIT><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>358</LINE></I2C_INIT>
+  <I2C_START><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>368</LINE></I2C_START>
+  <I2C_WRITE><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>378</LINE></I2C_WRITE>
+  <I2C_STOP><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>396</LINE></I2C_STOP>
+  <I2C_READ_ACK><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>385</LINE></I2C_READ_ACK>
+  <I2C_READ_NACK><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>390</LINE></I2C_READ_NACK>
+  <WRITE_DATETIME><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>306</LINE></WRITE_DATETIME>
+  <BIN_TO_BCD><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>444</LINE></BIN_TO_BCD>
+  <WRITE_HOURS><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>336</LINE></WRITE_HOURS>
+  <I2C_WAIT><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>372</LINE></I2C_WAIT>
+  <BIN_loop><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>448</LINE></BIN_loop>
+  <BIN_done><FILE>D:\Atmel Studio\Clock_SPI_2\main.asm</FILE><LINE>454</LINE></BIN_done>
+ </LABELS>
+</ASSEMBLER_INFO>
