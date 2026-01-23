@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>D:\Atmel Studio\button\button_ver_04\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Atmel Studio\button\button_ver_04\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m8def.inc</FILE>
+  <FILE>D:\Atmel Studio\button\button_ver_04\define.inc</FILE>
+  <FILE>D:\Atmel Studio\button\button_ver_04\button.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Atmel Studio\button\button_ver_04\Debug\button_ver_04.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>button_ver_04.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>button_ver_04.map</FILE>
+  <FILE>button_ver_04.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <display_mode><FILE>D:\Atmel Studio\button\button_ver_04\define.inc</FILE><LINE>72</LINE></display_mode>
+  <edit_mode><FILE>D:\Atmel Studio\button\button_ver_04\define.inc</FILE><LINE>80</LINE></edit_mode>
+  <flag_wr_time><FILE>D:\Atmel Studio\button\button_ver_04\define.inc</FILE><LINE>84</LINE></flag_wr_time>
+  <flag_dot><FILE>D:\Atmel Studio\button\button_ver_04\define.inc</FILE><LINE>94</LINE></flag_dot>
+  <display_buf><FILE>D:\Atmel Studio\button\button_ver_04\define.inc</FILE><LINE>101</LINE></display_buf>
+  <i2c_buffer><FILE>D:\Atmel Studio\button\button_ver_04\define.inc</FILE><LINE>107</LINE></i2c_buffer>
+  <bin_time_buffer><FILE>D:\Atmel Studio\button\button_ver_04\define.inc</FILE><LINE>116</LINE></bin_time_buffer>
+  <Reset><FILE>D:\Atmel Studio\button\button_ver_04\main.asm</FILE><LINE>28</LINE></Reset>
+  <INT1_ISR><FILE>D:\Atmel Studio\button\button_ver_04\main.asm</FILE><LINE>115</LINE></INT1_ISR>
+  <TIMER0_ISR><FILE>D:\Atmel Studio\button\button_ver_04\button.asm</FILE><LINE>7</LINE></TIMER0_ISR>
+  <SEG_TABLE><FILE>D:\Atmel Studio\button\button_ver_04\main.asm</FILE><LINE>24</LINE></SEG_TABLE>
+  <INIT_PORTS><FILE>D:\Atmel Studio\button\button_ver_04\main.asm</FILE><LINE>82</LINE></INIT_PORTS>
+  <INIT_VARIABLES><FILE>D:\Atmel Studio\button\button_ver_04\main.asm</FILE><LINE>65</LINE></INIT_VARIABLES>
+  <INIT_INTERRUPTS><FILE>D:\Atmel Studio\button\button_ver_04\main.asm</FILE><LINE>96</LINE></INIT_INTERRUPTS>
+  <MAIN_LOOP><FILE>D:\Atmel Studio\button\button_ver_04\main.asm</FILE><LINE>46</LINE></MAIN_LOOP>
+  <BUTTON><FILE>D:\Atmel Studio\button\button_ver_04\main.asm</FILE><LINE>49</LINE></BUTTON>
+  <SLEEP_ALL><FILE>D:\Atmel Studio\button\button_ver_04\main.asm</FILE><LINE>56</LINE></SLEEP_ALL>
+  <ACTIV_BUTTON><FILE>D:\Atmel Studio\button\button_ver_04\button.asm</FILE><LINE>104</LINE></ACTIV_BUTTON>
+  <State_Stable><FILE>D:\Atmel Studio\button\button_ver_04\button.asm</FILE><LINE>39</LINE></State_Stable>
+  <End_ISR><FILE>D:\Atmel Studio\button\button_ver_04\button.asm</FILE><LINE>76</LINE></End_ISR>
+  <BUTTON_1><FILE>D:\Atmel Studio\button\button_ver_04\button.asm</FILE><LINE>137</LINE></BUTTON_1>
+  <BUTTON_2><FILE>D:\Atmel Studio\button\button_ver_04\button.asm</FILE><LINE>145</LINE></BUTTON_2>
+  <BUTTON_3><FILE>D:\Atmel Studio\button\button_ver_04\button.asm</FILE><LINE>152</LINE></BUTTON_3>
+  <BUTTON_4><FILE>D:\Atmel Studio\button\button_ver_04\button.asm</FILE><LINE>158</LINE></BUTTON_4>
+ </LABELS>
+</ASSEMBLER_INFO>
