@@ -1,0 +1,123 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>D:\Atmel Studio\Clock_Step_By_Step\Step_05\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m8def.inc</FILE>
+  <FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\define.inc</FILE>
+  <FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\vectors.inc</FILE>
+  <FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\initialization.asm</FILE>
+  <FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE>
+  <FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displayedit.asm</FILE>
+  <FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE>
+  <FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\spi.asm</FILE>
+  <FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\Debug\Step_05.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Step_05.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Step_05.map</FILE>
+  <FILE>Step_05.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <display_mode><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\define.inc</FILE><LINE>82</LINE></display_mode>
+  <edit_mode><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\define.inc</FILE><LINE>90</LINE></edit_mode>
+  <display_buf><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\define.inc</FILE><LINE>102</LINE></display_buf>
+  <i2c_buffer><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\define.inc</FILE><LINE>108</LINE></i2c_buffer>
+  <rBtn_Save><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\define.inc</FILE><LINE>117</LINE></rBtn_Save>
+  <timeout_cnt><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\define.inc</FILE><LINE>118</LINE></timeout_cnt>
+  <Reset><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>35</LINE></Reset>
+  <INT0_ISR><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>192</LINE></INT0_ISR>
+  <INT1_ISR><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>204</LINE></INT1_ISR>
+  <TIMER0_ISR><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>7</LINE></TIMER0_ISR>
+  <SEG_TABLE><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>19</LINE></SEG_TABLE>
+  <TABLDISP><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>22</LINE></TABLDISP>
+  <SHOW_HM><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>8</LINE></SHOW_HM>
+  <SHOW_MS><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>13</LINE></SHOW_MS>
+  <SHOW_DM><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>23</LINE></SHOW_DM>
+  <SHOW_DAY><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>18</LINE></SHOW_DAY>
+  <SHOW_YEAR><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>28</LINE></SHOW_YEAR>
+  <TABLSHORT><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>29</LINE></TABLSHORT>
+  <MINUS><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>146</LINE></MINUS>
+  <PLUS><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>137</LINE></PLUS>
+  <CHANGE_ED><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>125</LINE></CHANGE_ED>
+  <CHANGE_MO><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>109</LINE></CHANGE_MO>
+  <INIT_PORTS><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\initialization.asm</FILE><LINE>33</LINE></INIT_PORTS>
+  <INIT_VARIABLES><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\initialization.asm</FILE><LINE>8</LINE></INIT_VARIABLES>
+  <INIT_INTERRUPTS><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\initialization.asm</FILE><LINE>61</LINE></INIT_INTERRUPTS>
+  <INIT_DS3231><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>5</LINE></INIT_DS3231>
+  <INIT_SPI><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\spi.asm</FILE><LINE>7</LINE></INIT_SPI>
+  <MAIN_LOOP><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>64</LINE></MAIN_LOOP>
+  <SELECT_DISP><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>81</LINE></SELECT_DISP>
+  <Press_Short><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>79</LINE></Press_Short>
+  <SLEEP_ALL><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>73</LINE></SLEEP_ALL>
+  <TimeOut><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>98</LINE></TimeOut>
+  <DiWo><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>93</LINE></DiWo>
+  <DISPLAY_EDIT><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displayedit.asm</FILE><LINE>9</LINE></DISPLAY_EDIT>
+  <OUT_SeDi><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>95</LINE></OUT_SeDi>
+  <DISPLAY_WORK><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>34</LINE></DISPLAY_WORK>
+  <Out_TO><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>112</LINE></Out_TO>
+  <TEST_A><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>121</LINE></TEST_A>
+  <out_te><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>136</LINE></out_te>
+  <TEST_B><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>140</LINE></TEST_B>
+  <Out_TB2><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>158</LINE></Out_TB2>
+  <Out_TB1><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>154</LINE></Out_TB1>
+  <TEST_C><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>163</LINE></TEST_C>
+  <Out_TC2><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>182</LINE></Out_TC2>
+  <Out_TC1><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\main.asm</FILE><LINE>177</LINE></Out_TC1>
+  <READ_DATETIME_FULL><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>84</LINE></READ_DATETIME_FULL>
+  <Buffer_disp><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>64</LINE></Buffer_disp>
+  <NORMAL_VIEW><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>41</LINE></NORMAL_VIEW>
+  <RTC_ADAPTIVE><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>28</LINE></RTC_ADAPTIVE>
+  <Error1><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>58</LINE></Error1>
+  <MD3><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>116</LINE></MD3>
+  <DIGIT_TO_SEGMENT><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\spi.asm</FILE><LINE>32</LINE></DIGIT_TO_SEGMENT>
+  <OUT_DI2><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>97</LINE></OUT_DI2>
+  <OUT_DI1><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>95</LINE></OUT_DI1>
+  <UPDATE_DISPLAY><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displaywork.asm</FILE><LINE>128</LINE></UPDATE_DISPLAY>
+  <spi_send><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\spi.asm</FILE><LINE>19</LINE></spi_send>
+  <Error2><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displayedit.asm</FILE><LINE>23</LINE></Error2>
+  <DE1><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displayedit.asm</FILE><LINE>27</LINE></DE1>
+  <OUT_UD2><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displayedit.asm</FILE><LINE>89</LINE></OUT_UD2>
+  <Disp_2><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displayedit.asm</FILE><LINE>57</LINE></Disp_2>
+  <UPDATE_DISPLAY_2><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displayedit.asm</FILE><LINE>73</LINE></UPDATE_DISPLAY_2>
+  <holo><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displayedit.asm</FILE><LINE>64</LINE></holo>
+  <loho><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\displayedit.asm</FILE><LINE>67</LINE></loho>
+  <I2C_INIT><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>165</LINE></I2C_INIT>
+  <I2C_START><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>175</LINE></I2C_START>
+  <I2C_WRITE><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>185</LINE></I2C_WRITE>
+  <I2C_STOP><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>203</LINE></I2C_STOP>
+  <READ_FULL><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>38</LINE></READ_FULL>
+  <READ_DATETIME><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>46</LINE></READ_DATETIME>
+  <OUT_RTC><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>41</LINE></OUT_RTC>
+  <I2C_READ_ACK><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>192</LINE></I2C_READ_ACK>
+  <I2C_READ_NACK><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>197</LINE></I2C_READ_NACK>
+  <WRITE_DATETIME><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>137</LINE></WRITE_DATETIME>
+  <I2C_WAIT><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\i2c.asm</FILE><LINE>179</LINE></I2C_WAIT>
+  <SPI_WAIT><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\spi.asm</FILE><LINE>25</LINE></SPI_WAIT>
+  <BTN_RESET_CNT><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>51</LINE></BTN_RESET_CNT>
+  <TIM0_EXIT><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>69</LINE></TIM0_EXIT>
+  <FIND_IDX><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>39</LINE></FIND_IDX>
+  <BTN_SAVE><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>46</LINE></BTN_SAVE>
+  <STOP_TIMER><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>56</LINE></STOP_TIMER>
+  <Progra_Short><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>92</LINE></Progra_Short>
+  <MODE_NEXT><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>115</LINE></MODE_NEXT>
+  <SAVE_TO_RTC><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>156</LINE></SAVE_TO_RTC>
+  <MO_ST><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>121</LINE></MO_ST>
+  <ED_ST><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>131</LINE></ED_ST>
+  <Pl_DONE><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>142</LINE></Pl_DONE>
+  <VALUE_UP><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>163</LINE></VALUE_UP>
+  <Mi_DONE><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>151</LINE></Mi_DONE>
+  <VALUE_DOWN><FILE>D:\Atmel Studio\Clock_Step_By_Step\Step_05\button.asm</FILE><LINE>168</LINE></VALUE_DOWN>
+ </LABELS>
+</ASSEMBLER_INFO>
